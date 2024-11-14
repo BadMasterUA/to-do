@@ -1,0 +1,14 @@
+-rootPath
+E:/cod/v2_to_do
+-cmake-output
+-output-file
+E:/cod/v2_to_do/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/qml_imports/appv2_to_do_conf.cmake
+-importPath
+E:/cod/v2_to_do/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/v2_to_do
+-importPath
+E:/cod/v2_to_do/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.3/mingw_64/qml
+-qrcFiles
+E:/cod/v2_to_do/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/rcc/qmake_v2_to_do.qrc
+E:/cod/v2_to_do/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/rcc/appv2_to_do_raw_qml_0.qrc

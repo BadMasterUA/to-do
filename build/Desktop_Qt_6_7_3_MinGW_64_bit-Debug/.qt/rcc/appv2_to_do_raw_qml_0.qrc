@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/v2_to_do/">
+    <file alias="Main.qml">E:/cod/v2_to_do/Main.qml</file>
+  </qresource>
+</RCC>
+

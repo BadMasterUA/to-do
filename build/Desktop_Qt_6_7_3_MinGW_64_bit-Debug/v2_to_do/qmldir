@@ -1,0 +1,5 @@
+module v2_to_do
+typeinfo appv2_to_do.qmltypes
+prefer :/qt/qml/v2_to_do/
+Main 1.0 Main.qml
+
